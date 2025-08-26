@@ -1,0 +1,30 @@
+a:hover{
+    color: yellow;
+}
+body{
+    background-color:rgb(232, 107, 255);
+}
+
+p{
+    color: brown;
+}
+
+.claudia{
+    background-color: coral;
+}
+
+.jose{
+    background-color: blue;
+}
+
+.jeejbela{
+    background-color: rgb(53, 176, 192);
+}
+
+.jeejBatman{
+    border: solid;
+}
+
+table, td, tr, th{
+    border: solid;
+}
