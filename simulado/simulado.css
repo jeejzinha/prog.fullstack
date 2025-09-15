@@ -1,0 +1,43 @@
+a:hover{
+    color: rgb(255, 0, 43);}
+p{
+    text-align: center;
+}
+.cinza{
+    background-color: gray;
+    text-align: justify;
+   
+}
+.carro{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    
+}
+.festival{
+    text-align: center;
+    color: rgb(255, 0, 43);
+}
+
+.fim{
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+    background-color: lightgray;
+   
+}
+h2{
+    color: rgb(255, 255, 255);
+}
+.barra{
+    display: flex;
+    justify-content: space-around;
+}
+.social{
+    justify-content: flex-end;
+}
+.inicio{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
